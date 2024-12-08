@@ -1,6 +1,2 @@
 #!/bin/bash
 su betty
-
-#!/bin/bash: Specifies that the script uses Bash.
-
-su betty: Switches the current user to betty.
